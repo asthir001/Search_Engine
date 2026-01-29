@@ -1,5 +1,5 @@
 # 🦜 LangChain Chat with Search Engine
-An AI-powered search assistant built with Streamlit, LangChain, and Groq. This chatbot doesn't just rely on its training data; it can browse the live web, search scientific papers on Arxiv, and look up facts on Wikipedia in real-time.
+This project is an intelligent, real-time search assistant that goes beyond static AI knowledge. By utilizing an Agentic Workflow, it autonomously decides which tools—DuckDuckGo, Wikipedia, or Arxiv—are necessary to provide the most accurate and up-to-date answer to any user query.
 
 ## 🚀 Features
 - **Multi-Tool Intelligence**: Automatically chooses between DuckDuckGo (web search), Wikipedia (facts), and Arxiv (research papers) based on your question.
