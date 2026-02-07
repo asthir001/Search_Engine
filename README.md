@@ -1,4 +1,4 @@
-# 🦜 LangChain Chat with Search Engine
+# 🦜 Chat with Agentic Search
 This project is an intelligent, real-time search assistant that goes beyond static AI knowledge. By utilizing an Agentic Workflow, it autonomously decides which tools—DuckDuckGo, Wikipedia, or Arxiv—are necessary to provide the most accurate and up-to-date answer to any user query.
 
 ## 🚀 Features
